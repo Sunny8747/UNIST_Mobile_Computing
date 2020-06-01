@@ -34,4 +34,4 @@ Studied at UNIST Mobile Computing
 - 1. Location detecting : detecting classroom.(if user is at dormitory, the app will not work)
 - 2. If user is running, alarming 1min later
 - 3. The app is on -> run attendance application (alarm program is background state -> save energy)
-     <img src="https://github.com/Sunny8747/UNIST_Mobile_Computing/blob/master/Assignment3/concepts.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="Result"></img>
+- <img src="https://github.com/Sunny8747/UNIST_Mobile_Computing/blob/master/Assignment3/concepts.png" width="70%" height="60%" title="px(픽셀) 크기 설정" alt="Result"></img>
