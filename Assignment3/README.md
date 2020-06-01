@@ -6,7 +6,9 @@
 - 2. If user is running, alarming 1min later
 - 3. The app is on -> run attendance application (alarm program is background state -> save energy)
 
-# Concepts image
+# Flow Concepts image
+
+<img src="https://github.com/Sunny8747/UNIST_Mobile_Computing/blob/master/Assignment3/concepts.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="Result"></img>
 
 # result video in repo
 
