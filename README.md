@@ -23,6 +23,9 @@ Studied at UNIST Mobile Computing
 
 - Localization at univ building
 - I used magnetic sensor for get orientation.
+- Assignment2 Description : <https://github.com/Sunny8747/UNIST_Mobile_Computing/blob/master/Assignment2/CSE465%20Project2.pdf>
+- Problem : <https://github.com/Sunny8747/UNIST_Mobile_Computing/blob/master/Assignment2/Assign2_mini_20131329%EC%8B%A0%EC%84%A0%EC%9A%B0.pdf>
+- Result video : In repository
 
 ### 3) Free project (Location detecting + Motion awareness + Alarm + Run application in background)
 
@@ -31,3 +34,4 @@ Studied at UNIST Mobile Computing
 - 1. Location detecting : detecting classroom.(if user is at dormitory, the app will not work)
 - 2. If user is running, alarming 1min later
 - 3. The app is on -> run attendance application (alarm program is background state -> save energy)
+     <img src="https://github.com/Sunny8747/UNIST_Mobile_Computing/blob/master/Assignment3/concepts.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="Result"></img>
