@@ -35,3 +35,5 @@ Studied at UNIST Mobile Computing
 - 2. If user is running, alarming 1min later
 - 3. The app is on -> run attendance application (alarm program is background state -> save energy)
 - <img src="https://github.com/Sunny8747/UNIST_Mobile_Computing/blob/master/Assignment3/concepts.png" width="70%" height="60%" title="px(픽셀) 크기 설정" alt="Result"></img>
+- Project Proposal : <https://github.com/Sunny8747/UNIST_Mobile_Computing/blob/master/Assignment3/Project3_Proposal_20131329_%EC%8B%A0%EC%84%A0%EC%9A%B0.pdf>
+- Report Video : In reopository
