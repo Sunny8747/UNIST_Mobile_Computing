@@ -19,7 +19,7 @@ Studied at UNIST Mobile Computing
 - The Application aware walking, running, upstairs, downstairs, sitting, standup.
 - My Tensorflow_Lite skill was bad so I used Data analysis configuration for high accuracy.
 
-<img src="https://github.com/Sunny8747/UNIST_Mobile_Computing/blob/master/Assignment1/Assign1_result.jpg" width="70%" height="60%" title="px(픽셀) 크기 설정" alt="app_result_image"></img>
+<img src="https://github.com/Sunny8747/UNIST_Mobile_Computing/blob/master/Assignment1/Assign1_result.jpg" width="40%" height="20%" title="px(픽셀) 크기 설정" alt="app_result_image"></img>
 
 ### 2) Localization
 
@@ -42,4 +42,4 @@ Studied at UNIST Mobile Computing
 - Project Proposal : <https://github.com/Sunny8747/UNIST_Mobile_Computing/blob/master/Assignment3/Project3_Proposal_20131329_%EC%8B%A0%EC%84%A0%EC%9A%B0.pdf>
 - Report Video : In reopository
 
-<img src="   URL   " width="70%" height="60%" title="px(픽셀) 크기 설정" alt="   name   "></img>
+<img src="https://github.com/Sunny8747/UNIST_Mobile_Computing/blob/master/Assignment3/image3.png" width="40%" height="20%" title="px(픽셀) 크기 설정" alt="app image"></img>
