@@ -19,6 +19,8 @@ Studied at UNIST Mobile Computing
 - The Application aware walking, running, upstairs, downstairs, sitting, standup.
 - My Tensorflow_Lite skill was bad so I used Data analysis configuration for high accuracy.
 
+<img src="https://github.com/Sunny8747/UNIST_Mobile_Computing/blob/master/Assignment1/Assign1_result.jpg" width="70%" height="60%" title="px(픽셀) 크기 설정" alt="app_result_image"></img>
+
 ### 2) Localization
 
 - Localization at univ building
@@ -26,6 +28,8 @@ Studied at UNIST Mobile Computing
 - Assignment2 Description : <https://github.com/Sunny8747/UNIST_Mobile_Computing/blob/master/Assignment2/CSE465%20Project2.pdf>
 - Problem : <https://github.com/Sunny8747/UNIST_Mobile_Computing/blob/master/Assignment2/Assign2_mini_20131329%EC%8B%A0%EC%84%A0%EC%9A%B0.pdf>
 - Result video : In repository
+
+<img src="https://github.com/Sunny8747/UNIST_Mobile_Computing/tree/master/Assignment2/" width="70%" height="60%" title="px(픽셀) 크기 설정" alt="app_result_image"></img>
 
 ### 3) Free project (Location detecting + Motion awareness + Alarm + Run application in background)
 
@@ -37,3 +41,5 @@ Studied at UNIST Mobile Computing
 - <img src="https://github.com/Sunny8747/UNIST_Mobile_Computing/blob/master/Assignment3/concepts.png" width="70%" height="60%" title="px(픽셀) 크기 설정" alt="Result"></img>
 - Project Proposal : <https://github.com/Sunny8747/UNIST_Mobile_Computing/blob/master/Assignment3/Project3_Proposal_20131329_%EC%8B%A0%EC%84%A0%EC%9A%B0.pdf>
 - Report Video : In reopository
+
+<img src="   URL   " width="70%" height="60%" title="px(픽셀) 크기 설정" alt="   name   "></img>
