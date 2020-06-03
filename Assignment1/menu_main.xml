@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_setting" android:title="@string/action_setting"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/walking" android:title="@string/walking"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/jogging" android:title="@string/jogging"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/upstairs" android:title="@string/upstairs"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/downstairs" android:title="@string/downstairs"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/standing" android:title="@string/standing"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/sitting" android:title="@string/sitting"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+</menu>
